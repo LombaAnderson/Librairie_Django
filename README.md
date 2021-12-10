@@ -4,7 +4,7 @@
 # Sobre o projeto
 O projeto Librairie_Django é uma API Django Rest framework onde se pode cadastrar nome, autor, ano que saiu o livro, seu estado, número de páginas e editora. Dessa forma é possível cadastrar os livros, apagá-los, deixá-los registrados. Inicialmente é preciso configurar o settings.py e em seguida é necessário criar as models onde ficarão todas as informações descritas acima. Foram feitos testes manuais e unitários para verificar se está tudo ok e utilizado python decouple com intuito de preservar a chave. Caso seja preciso fornecerei a chave. 
 
-## Imagem da
+## Imagem de exemplo de cadastro de livros
 <div align="center">
 <img src="https://user-images.githubusercontent.com/60937513/145520946-99122343-e0f7-425c-b78f-2df14ce928be.png" width="700" />
 </div>
