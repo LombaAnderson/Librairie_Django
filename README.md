@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/Librairie_Django/blob/main/LICENSE)
 
 # Sobre o projeto
-O projeto Librairie_Django é uma API Django Rest framework onde se pode cadastrar nome, autor, ano que saiu o livro, seu estado, número de páginas e editora. Dessa forma é possível cadastrar livros, apagá-los, deixá-los registrados com as opções GET, POST, HEAD e OPTIONS. A título de exemplo no caso de OPTIONS é possível utilizá-lo para que um cliente descobra quais as opções de requisição permitidas para um determinado recurso em um servidor. Inicialmente é preciso configurar o settings.py e em seguida é necessário criar as models onde ficarão todas as informações descritas acima. Foram feitos testes manuais e unitários para verificar se está tudo ok e utilizado python decouple com intuito de preservar a chave. Caso seja preciso fornecerei a chave. 
+O projeto Librairie_Django é uma API Django Rest framework onde se pode cadastrar nome, autor, ano que saiu o livro, seu estado, número de páginas e editora. Dessa forma é possível cadastrar livros, apagá-los, deixá-los registrados com as opções GET, POST, HEAD e OPTIONS. A título de exemplo no caso de OPTIONS é possível utilizá-lo para que um cliente descobra quais as opções de requisição permitidas para um determinado recurso em um servidor. Inicialmente é preciso configurar o settings.py e em seguida é necessário criar as models onde ficarão todas as informações descritas acima. Foram feitos testes manuais e unitários para verificar se está tudo ok e utilizado python decouple com intuito de preservar a chave. 
 
 ## Imagem de exemplo de cadastro de livros
 <div align="center">
