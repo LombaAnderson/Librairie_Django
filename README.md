@@ -6,7 +6,7 @@ O projeto Librairie_Django é uma API Django Rest framework onde se pode cadastr
 
 ## Imagem de exemplo de cadastro de livros
 <div align="center">
-<img src="https://user-images.githubusercontent.com/60937513/165667654-fdb3f0a7-b224-48de-9c17-784605219c7e.png" width="700" />
+<img src="https://user-images.githubusercontent.com/60937513/145520946-99122343-e0f7-425c-b78f-2df14ce928be.png" width="700" />
 </div>
 
 # Tecnologias utilizadas
